@@ -1,6 +1,6 @@
 /* Navigation Bar Section  */
 #navbar{
-    position: sticky;
+    position: relative;
     flex-direction: column;
     height: 90px;
 }
